@@ -1,0 +1,43 @@
+header{
+    
+    margin-bottom:2em;
+    margin:none;
+}
+img{
+    border-radius: 40%;
+    max-width: 80%;
+    margin-left:30%;
+    margin-top:3em;
+  
+}
+
+p{
+    font-size:2em;
+    color:blue;
+    margin-left:4em;
+    margin-right:4em;
+    margin-top:2em;
+    margin-bottom:2em;
+}
+
+button{
+     display: flex;
+align-items: center;
+margin: 0 auto;
+font-size:3em;
+margin-bottom:.5em;
+color:blue;
+border-radius:3em;
+padding:.2em .3em .2em .3em;
+
+
+
+}
+
+body{
+    background-color:lightgray;
+}
+
+a{
+    text-decoration:none;
+}
